@@ -1,6 +1,8 @@
 # Machine-Learning Prediction Project
 ![image](https://github.com/MarianOforiYeboah/Machine-Learning-Prediction-Project/blob/main/img/Machinelearning.jpg)
-## Project Overview
+
+## <br><br>
+<h3><img src="Img/clipboard.png" width="40" > Project Overview
 
 This project aims to classify Osmancik and Cammeo rice grains using machine learning. The dataset contains images of 3810 grains with seven morphological features. The goal is to build an accurate model using PyCaret for classification and prediction on unseen data.
 
